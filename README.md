@@ -10,4 +10,6 @@ If you want to help have a look at our [issue tracker to engange in our projects
 
 
 - [Travel recommendations](./travelling.md)
+- [Scientific literature](./literature.md)
+- [Mixed Resources](./resources.md)
 
