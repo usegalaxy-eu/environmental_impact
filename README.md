@@ -1,3 +1,5 @@
+[![documentation](https://img.shields.io/badge/documentation-online-blue)](https://usegalaxy-eu.github.io/environmental_impact/)
+
 # Environmental Impact
 
 This repo is a start to collect ideas and recommendations for the ELIXIR
