@@ -1,5 +1,10 @@
 ## General travel tips
 
+## International train rides
+
+* [Trainline](https://www.thetrainline.com/) is a very good service to book cross European train rides
+* [Interrail](https://www.interrail.eu) providing travellers access to more than 250,000 km of interconnected railways across 33 different Euroean countries
+
 ## ELIXIR All Hands Meeting 2023
 
 The ELIXIR AHM 2023 will be in Dublin and its not that easy to reach an Island by train :wink:.
