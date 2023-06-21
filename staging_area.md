@@ -10,6 +10,10 @@
 * sharing good practice
 * measuring progress
 
+## GPUs
+
+* reduce GPUs to 1 GHZ, this will slow down 10% floating point calculations but save 16%-24% energy.
+
 ### ideas from bjoern
 
 * sharing dual use cases - produced heat could be reused, do we have some nice ideas to share?
