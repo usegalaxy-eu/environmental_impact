@@ -7,3 +7,8 @@ Please try to group the literature in categories and try to add DOIs.
 - [Ten simple rules to make your computing more environmentally sustainable](https://doi.org/10.1371/journal.pcbi.1009324)
 - [The Carbon Footprint of Bioinformatics ](https://doi.org/10.1093/molbev/msac034)
 - [Going green: optimizing GPUs for energy efficiency through model-steered auto-tuning](https://doi.org/10.1109/PMBS56514.2022.00010)
+
+## Compensation
+
+- voluntary gold standard: https://www.goldstandard.org
+- verified carbon standard: https://verra.org/programs/verified-carbin-standard/
