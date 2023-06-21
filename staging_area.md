@@ -12,7 +12,7 @@
 
 ## GPUs
 
-* reduce GPUs to 1 GHZ, this will slow down 10% floating point calculations but save 16%-24% energy.
+* declock GPUs to 1 GHZ, this will slow down 10% floating point calculations but save 16%-24% energy.
 
 ### ideas from bjoern
 
