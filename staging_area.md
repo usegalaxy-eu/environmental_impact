@@ -20,3 +20,8 @@
   * heating system of nearby housing
   * district heating 
 * recycling - reuse? reprupose - again share good examples
+
+## WEEE
+
+* covers most IT equipment
+* ...
