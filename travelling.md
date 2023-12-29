@@ -13,3 +13,10 @@ An alternative to a flight is a ferry and with [Direct-Ferries](https://www.dire
 is straight forward.
 We recommend to travel from Cherbourg for all people nearby France and from Holyhead for our UK friends. Its also possible
 to travel with the Eurostar express to the UK and then with the Ferry.
+
+## Freiburg --> Thessaloniki
+
+* Freiburg --> Brindisi booked with [Trainline](https://www.thetrainline.com/) 141€
+* Ferry from Brindisi to Igoumenitsa booked over https://www.directferries.de 100 € (two way)
+* optional Hotel in Igoumenitsa
+* Bus Igoumenitsa --> Thessaloniki https://ktelbus.gr/thesp/ticketweb/ 37€
