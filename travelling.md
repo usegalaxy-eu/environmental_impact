@@ -20,3 +20,5 @@ to travel with the Eurostar express to the UK and then with the Ferry.
 * Ferry from Brindisi → Igoumenitsa booked over https://www.directferries.de 100 € (two way)
 * optional Hotel in Igoumenitsa
 * Bus Igoumenitsa → Thessaloniki https://ktelbus.gr/thesp/ticketweb/ 37€
+
+## ELIXIR All Hands Meeting 2024
