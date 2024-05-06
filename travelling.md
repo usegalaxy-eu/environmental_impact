@@ -25,6 +25,6 @@ to travel with the Eurostar express to the UK and then with the Ferry.
 
 Travelling to and from **Uppsala**. Also applicable to travelling to **Turku** for the **ECCB 2024!**
 
-_Note:_ Night trains from Germany to Stockholm ([SJ](https://www.sj.se/en/search-journey/choose-journey/Hamburg%20Hbf/Stockholm%20Central/2024-06-07), [Snälltåget](https://www.snalltaget.se/en/berlin#)) get full quickly, and may not always run on Saturday night. Friday departure looks alright though, with both companies. To arrive on Sunday evening to Uppsala, we recommend a **day connection from Hamburg**.
+_Note:_ Night trains from Germany to Stockholm ([SJ](https://www.sj.se/en/search-journey/choose-journey/Hamburg%20Hbf/Stockholm%20Central/2024-06-07), [Snälltåget](https://www.snalltaget.se/en/berlin#)) get full quickly, and may not always run on Saturday night. Friday departure looks alright though, with both companies (if you can afford a weekend in Stockholm/Uppsala/..). However, to arrive to Uppsala on Sunday evening, we recommend a **day connection from Hamburg** (or an early-morning connection from other German cities). Night trains to Hamburg with beds and couchettes are run by [ÖBB NightJet](https://www.nightjet.com/en/ticket-buchen#/home). Alterantively, for staying in Hamburg overnight, [Generator](https://staygenerator.com/generator-properties/generator-hamburg?lang=en-GB) is right next to the station, a little bit run-down, but safe and cheap.
 
 ![Travel to Uppsala](toUppsala.svg?raw=true)
