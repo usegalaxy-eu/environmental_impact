@@ -27,4 +27,4 @@ Travelling to and from **Uppsala**. Also applicable to travelling to **Turku** f
 
 _Note:_ Night trains from Germany to Stockholm ([SJ](https://www.sj.se/en/search-journey/choose-journey/Hamburg%20Hbf/Stockholm%20Central/2024-06-07), [Snälltåget](https://www.snalltaget.se/en/berlin#)) get full quickly, and may not always run on Saturday night. Friday departure looks alright though, with both companies. To arrive on Sunday evening to Uppsala, we recommend a **day connection from Hamburg**.
 
-![Travel to Uppsala](toUppsala.svg)
+![Travel to Uppsala](toUppsala.svg?raw=true)
