@@ -14,5 +14,5 @@ Please try to group the literature in categories and try to add DOIs.
 
 ## Compensation
 
-- voluntary gold standard: https://www.goldstandard.org
-- verified carbon standard: https://verra.org/programs/verified-carbin-standard/
+- [Gold Standard](https://www.goldstandard.org)
+- [Verified Carbon Standard](https://verra.org/programs/verified-carbon-standard/)
