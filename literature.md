@@ -11,6 +11,7 @@ Please try to group the literature in categories and try to add DOIs.
 - [Tracking the environmental impact of research computing](https://software.ac.uk/blog/2023-08-15-tracking-environmental-impact-research-computing)
 - [GREENER principles for environmentally sustainable computational science](https://www.nature.com/articles/s43588-023-00461-y)
 - [EcoFreq: Compute with Cheaper, Cleaner Energy via Carbon-Aware Power Scaling](https://ieeexplore.ieee.org/document/10528928)
+- [The Uneven Distribution of AI’s Environmental Impacts, by Shaolei Ren and Adam Wierman.](https://hbr.org/2024/07/the-uneven-distribution-of-ais-environmental-impacts)
 
 ## Compensation
 
