@@ -15,3 +15,5 @@ Please have a look at the [literature](./literature.md) document if you want to 
 
 * [EcoFreq](https://github.com/amkozlov/eco-freq)
 * The ISCB Green pledge https://www.iscb.org/green-pledge mentions this [calculator ](https://sustainabletravel.org/our-work/carbon-offsets/calculate-footprint/)
+* [Electricity Maps](https://app.electricitymaps.com/): real-time statistics on carbon intensity of electricity, accessible also via [API](https://docs.electricitymaps.com/)
+* [Eco-CI](https://github.com/green-coding-solutions/eco-ci-energy-estimation): estimating energy consumption in GitHub/GitLab continuous integration (CI) environments.
