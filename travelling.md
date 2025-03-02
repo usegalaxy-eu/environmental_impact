@@ -5,6 +5,7 @@
 * [Trainline](https://www.thetrainline.com/) is a very good service to book cross European train rides
 * [Interrail](https://www.interrail.eu) providing travellers access to more than 250,000 km of interconnected railways across 33 different Euroean countries
 * Both [Trainline](https://www.thetrainline.com/trains/europe/night-trains) and [Interrail](https://www.interrail.eu/en/plan-your-trip/tips-and-tricks/trains-europe/night-trains) have dedicated night-train sections. Here is a dedicated [night train summary](http://www.night-trains.com/europe/) website.
+* [Train travel in the UK, Europe & Worldwide - The Man in Seat Sixty-One](https://www.seat61.com/)
 
 ## ELIXIR All Hands Meeting 2023
 
