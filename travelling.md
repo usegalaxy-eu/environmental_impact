@@ -6,6 +6,7 @@
 * [Interrail](https://www.interrail.eu) providing travellers access to more than 250,000 km of interconnected railways across 33 different Euroean countries
 * Both [Trainline](https://www.thetrainline.com/trains/europe/night-trains) and [Interrail](https://www.interrail.eu/en/plan-your-trip/tips-and-tricks/trains-europe/night-trains) have dedicated night-train sections. Here is a dedicated [night train summary](http://www.night-trains.com/europe/) website.
 * [Train travel in the UK, Europe & Worldwide - The Man in Seat Sixty-One](https://www.seat61.com/)
+* [Railfinder](https://www.railfinder.eu) - still in beta, but yields very promising search results already; booking of tickets is also possible with a 10% fee for some railway companies already
 
 ## ELIXIR All Hands Meeting 2023
 
