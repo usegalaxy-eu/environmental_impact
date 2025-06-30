@@ -18,3 +18,4 @@ Please have a look at the [literature](./literature.md) document if you want to 
 * The ISCB Green pledge https://www.iscb.org/green-pledge mentions this [calculator ](https://sustainabletravel.org/our-work/carbon-offsets/calculate-footprint/)
 * [Electricity Maps](https://app.electricitymaps.com/): real-time statistics on carbon intensity of electricity, accessible also via [API](https://docs.electricitymaps.com/)
 * [Eco-CI](https://github.com/green-coding-solutions/eco-ci-energy-estimation): estimating energy consumption in GitHub/GitLab continuous integration (CI) environments.
+* [Climate-Aware Task Scheduler (CATS)](https://github.com/GreenScheduler/cats): a lightweight Python package designed to schedule tasks based on the estimated carbon intensity of the electricity grid at any given moment. Currently only works in the UK.
